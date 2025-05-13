@@ -4,13 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b302f11f-9f29-4475-9b8e-391239bc3c48" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/BINA.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/BINA.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="b302f11f-9f29-4475-9b8e-391239bc3c48" name="Default Changelist" comment="jypnb erzeugt und angepasst">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/zug/BINA.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/zug/BINA.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zug/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/zug/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zug/abos.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zug/anzahlbahnhof.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zug/final_bahnhof_abos.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zug/ortsverzeichnis.xlsx" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,8 +113,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1740919707660</updated>
-      <workItem from="1747167543277" duration="787000" />
+      <workItem from="1747167543277" duration="2538000" />
     </task>
+    <task id="LOCAL-00001" summary="jypnb erzeugt und angepasst">
+      <option name="closed" value="true" />
+      <created>1747168374714</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1747168374714</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -132,6 +141,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="jypnb erzeugt und angepasst" />
+    <option name="LAST_COMMIT_MESSAGE" value="jypnb erzeugt und angepasst" />
   </component>
 </project>
