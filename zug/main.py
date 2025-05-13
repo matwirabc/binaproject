@@ -10,8 +10,6 @@ from scipy.stats import pearsonr
 from scipy.stats import pearsonr, linregress
 
 
-
-
 ##==== Vorbereitung der Datensätze ====##
 # CSV-Datei laden
 df = pd.read_csv("anzahlbahnhof.csv")
