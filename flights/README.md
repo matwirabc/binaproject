@@ -14,6 +14,6 @@ Die folgenden Dateien enthalten **das gleiche Notebook in unterschiedlichen Form
 
 Die verwendeten Flugdaten können unter folgendem Link heruntergeladen werden:
 
-[Google Drive Download]([https://drive.google.com/file/d/11IDuXSkEp8m0wlx3FlVfCUD_pKsPISRt/view?usp=sharing](https://drive.google.com/file/d/11IDuXSkEp8m0wlx3FlVfCUD_pKsPISRt/view?usp=share_link))
+[Google Drive Download]([https://drive.google.com/file/d/11IDuXSkEp8m0wlx3FlVfCUD_pKsPISRt/view?usp=sharing](https://drive.google.com/file/d/11IDuXSkEp8m0wlx3FlVfCUD_pKsPISRt/view?usp=share_link)): https://drive.google.com/file/d/11IDuXSkEp8m0wlx3FlVfCUD_pKsPISRt/view?usp=share_link
 
 Hinweis: Die Datei ist zu gross, um direkt in dieses Repository hochgeladen zu werden.
