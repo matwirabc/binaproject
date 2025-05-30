@@ -18,7 +18,7 @@ Jeder Ordner behandelt einen thematischen Bereich (Flugverkehr, Zugverkehr, Moto
 /Aggregate
     └── bina_aggregate_250601.ipynb
 /Zug
-    └── BINA.ipynb.ipynb
+    └── BINA.ipynb
 /Auto
     ├── Fahrzeugentwicklung_in_der_Schweiz.ipynb
 /flights
