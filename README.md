@@ -23,3 +23,6 @@ Jeder Ordner behandelt einen thematischen Bereich (Flugverkehr, Zugverkehr, Moto
     ├── Fahrzeugentwicklung_in_der_Schweiz.ipynb
 /flights
     ├── flightsnotebook.ipynb
+/Bevölkerungszahlen
+    ├── Bevölkerungszahlen.ipynb
+
